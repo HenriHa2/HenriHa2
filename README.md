@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HenriH
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning in SAMK
 - 💞️ I’m looking to collaborate on noone
 - 📫 How to reach me here
 
